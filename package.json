@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-maximilian",
+  "version": "1.0.0",
+  "description": "Node.js course by Maximilian",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykhailotarabtsov/nodejs-maximilian-course.git"
+  },
+  "author": "Mykhailo Tarabtsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykhailotarabtsov/nodejs-maximilian-course/issues"
+  },
+  "homepage": "https://github.com/mykhailotarabtsov/nodejs-maximilian-course#readme"
+}
