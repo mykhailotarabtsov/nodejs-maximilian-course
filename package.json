@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mykhailotarabtsov/nodejs-maximilian-course/issues"
   },
-  "homepage": "https://github.com/mykhailotarabtsov/nodejs-maximilian-course#readme"
+  "homepage": "https://github.com/mykhailotarabtsov/nodejs-maximilian-course#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
